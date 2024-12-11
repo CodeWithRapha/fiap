@@ -1,6 +1,6 @@
 # FIAP - FINTECH WEB
 
-Atividade: 
+### Atividade: 
 
 Desenvolvimento do projeto da versão Web do aplicativo de gestão financeira pessoal.
 
